@@ -94,7 +94,8 @@ def show_dict_of_artists():
                    "Future" : "1RyvyyTE3xzB2ZywiAwp0i" ,
                    "Frank Sinatra" : "1Mxqyy3pSjf8kZZL4QVxS0" ,
                    "Billie Eilish" : "6qqNVTkY8uBg9cP3Jd7DAH",
-                   "Prueba": "prueba"    
+                   "Prueba": "prueba",
+                   "Prueba2": "prueba2",  
                 }
   
     display_artists_chart()
