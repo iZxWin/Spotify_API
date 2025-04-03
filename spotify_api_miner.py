@@ -93,9 +93,7 @@ def show_dict_of_artists():
                    "Bad Bunny" : "4q3ewBCX7sLwd24euuV69X" ,
                    "Future" : "1RyvyyTE3xzB2ZywiAwp0i" ,
                    "Frank Sinatra" : "1Mxqyy3pSjf8kZZL4QVxS0" ,
-                   "Billie Eilish" : "6qqNVTkY8uBg9cP3Jd7DAH",
-                   "Prueba": "prueba",
-                   "Prueba2": "prueba2",  
+                   "Billie Eilish" : "6qqNVTkY8uBg9cP3Jd7DAH",  
                 }
   
     display_artists_chart()
